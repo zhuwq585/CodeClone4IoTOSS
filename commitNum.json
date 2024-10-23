@@ -1,0 +1,1277 @@
+{
+    "rootFolderPath": "/Users/syu/IoT_Projs/",
+    "projInfo": {
+        "C_C++": {
+            "sensor-esp32": {
+                "commitNum": "106",
+                "groupName": "Communication",
+                "taskId": "20001",
+                "projID_task": -1
+            },
+            "arduino-mqtt": {
+                "commitNum": "564",
+                "groupName": "Communication",
+                "taskId": "20001",
+                "projID_task": -1
+            },
+            "esp-mqtt": {
+                "commitNum": "632",
+                "groupName": "Communication",
+                "taskId": "20001",
+                "projID_task": -1
+            },
+            "paho.mqtt.c": {
+                "commitNum": "1833",
+                "groupName": "Communication",
+                "taskId": "20001",
+                "projID_task": -1
+            },
+            "wolfssl": {
+                "commitNum": "21336",
+                "groupName": "Communication",
+                "taskId": "20001",
+                "projID_task": -1
+            },
+            "iot-edge-v1": {
+                "commitNum": "886",
+                "groupName": "Communication",
+                "taskId": "20001",
+                "projID_task": -1
+            },
+            "nanomq": {
+                "commitNum": "2996",
+                "groupName": "Communication",
+                "taskId": "20001",
+                "projID_task": -1
+            },
+            "freeswitch": {
+                "commitNum": "35724",
+                "groupName": "Communication",
+                "taskId": "20001",
+                "projID_task": -1
+            },
+            "mongoose-os": {
+                "commitNum": "4740",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "device-os": {
+                "commitNum": "12807",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "PedalinoMini": {
+                "commitNum": "747",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "OpenBK7231T_App": {
+                "commitNum": "3034",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "b-parasite": {
+                "commitNum": "399",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "esp-iot-solution": {
+                "commitNum": "1523",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "Tasmota": {
+                "commitNum": "18590",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "mcuboot": {
+                "commitNum": "2191",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "RIOT": {
+                "commitNum": "44761",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "threadx": {
+                "commitNum": "148",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "AliOS-Things": {
+                "commitNum": "6765",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "mbed-os": {
+                "commitNum": "34561",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "zephyr": {
+                "commitNum": "88808",
+                "groupName": "Device(normal)",
+                "taskId": "20002",
+                "projID_task": -1
+            },
+            "domoticz": {
+                "commitNum": "14176",
+                "groupName": "Communication",
+                "taskId": "20011",
+                "projID_task": -1
+            },
+            "esphome": {
+                "commitNum": "5954",
+                "groupName": "Communication",
+                "taskId": "20011",
+                "projID_task": -1
+            },
+            "MySensors": {
+                "commitNum": "2117",
+                "groupName": "Communication",
+                "taskId": "20011",
+                "projID_task": -1
+            },
+            "blynk-library": {
+                "commitNum": "2048",
+                "groupName": "Communication",
+                "taskId": "20011",
+                "projID_task": -1
+            },
+            "poco": {
+                "commitNum": "5631",
+                "groupName": "Communication",
+                "taskId": "20011",
+                "projID_task": -1
+            },
+            "vscp": {
+                "commitNum": "3530",
+                "groupName": "Communication",
+                "taskId": "20011",
+                "projID_task": -1
+            },
+            "VitoWiFi": {
+                "commitNum": "137",
+                "groupName": "Communication",
+                "taskId": "20011",
+                "projID_task": -1
+            },
+            "openthread": {
+                "commitNum": "7545",
+                "groupName": "Communication",
+                "taskId": "20011",
+                "projID_task": -1
+            },
+            "ggwave": {
+                "commitNum": "474",
+                "groupName": "Device",
+                "taskId": "20012",
+                "projID_task": -1
+            },
+            "upm": {
+                "commitNum": "2156",
+                "groupName": "Device",
+                "taskId": "20012",
+                "projID_task": -1
+            },
+            "WThermostatBeca": {
+                "commitNum": "250",
+                "groupName": "Device",
+                "taskId": "20012",
+                "projID_task": -1
+            },
+            "ESP32-Paxcounter": {
+                "commitNum": "3449",
+                "groupName": "Device",
+                "taskId": "20012",
+                "projID_task": -1
+            },
+            "ArduinoJson": {
+                "commitNum": "1711",
+                "groupName": "Device",
+                "taskId": "20012",
+                "projID_task": -1
+            }
+        },
+        "Java": {
+            "freedomotic": {
+                "commitNum": "1581",
+                "groupName": "Communication",
+                "taskId": "20003",
+                "projID_task": -1
+            },
+            "openhab-core": {
+                "commitNum": "2312",
+                "groupName": "Communication",
+                "taskId": "20003",
+                "projID_task": -1
+            },
+            "kura": {
+                "commitNum": "5882",
+                "groupName": "Communication",
+                "taskId": "20003",
+                "projID_task": -1
+            },
+            "kapua": {
+                "commitNum": "6737",
+                "groupName": "Communication",
+                "taskId": "20003",
+                "projID_task": -1
+            },
+            "t-io": {
+                "commitNum": "505",
+                "groupName": "Communication",
+                "taskId": "20003",
+                "projID_task": -1
+            },
+            "hono": {
+                "commitNum": "6298",
+                "groupName": "Communication",
+                "taskId": "20003",
+                "projID_task": -1
+            },
+            "smarthome": {
+                "commitNum": "5162",
+                "groupName": "Cloud",
+                "taskId": "20004",
+                "projID_task": -1
+            },
+            "devicehive-java-server": {
+                "commitNum": "2816",
+                "groupName": "Cloud",
+                "taskId": "20004",
+                "projID_task": -1
+            },
+            "iot-java": {
+                "commitNum": "737",
+                "groupName": "Cloud",
+                "taskId": "20004",
+                "projID_task": -1
+            },
+            "vor": {
+                "commitNum": "573",
+                "groupName": "Cloud",
+                "taskId": "20004",
+                "projID_task": -1
+            },
+            "nodel": {
+                "commitNum": "507",
+                "groupName": "Cloud",
+                "taskId": "20004",
+                "projID_task": -1
+            },
+            "sitewhere": {
+                "commitNum": "2659",
+                "groupName": "Cloud",
+                "taskId": "20004",
+                "projID_task": -1
+            },
+            "ditto": {
+                "commitNum": "11350",
+                "groupName": "Cloud",
+                "taskId": "20004",
+                "projID_task": -1
+            },
+            "mycontroller": {
+                "commitNum": "1109",
+                "groupName": "Cloud",
+                "taskId": "20004",
+                "projID_task": -1
+            },
+            "thingsboard": {
+                "commitNum": "16521",
+                "groupName": "Cloud",
+                "taskId": "20004",
+                "projID_task": -1
+            }
+        },
+        "JavaScript": {
+            "iotagent-node-lib": {
+                "commitNum": "3643",
+                "groupName": "Communication",
+                "taskId": "20005",
+                "projID_task": -1
+            },
+            "tuyapi": {
+                "commitNum": "418",
+                "groupName": "Communication",
+                "taskId": "20005",
+                "projID_task": -1
+            },
+            "ioBroker.hue": {
+                "commitNum": "723",
+                "groupName": "Communication",
+                "taskId": "20005",
+                "projID_task": -1
+            },
+            "iotagent-json": {
+                "commitNum": "1881",
+                "groupName": "Communication",
+                "taskId": "20005",
+                "projID_task": -1
+            },
+            "lightweightm2m-iotagent": {
+                "commitNum": "575",
+                "groupName": "Communication",
+                "taskId": "20005",
+                "projID_task": -1
+            },
+            "iotagent-ul": {
+                "commitNum": "1730",
+                "groupName": "Communication",
+                "taskId": "20005",
+                "projID_task": -1
+            },
+            "aedes": {
+                "commitNum": "803",
+                "groupName": "Communication",
+                "taskId": "20005",
+                "projID_task": -1
+            },
+            "Zwave2Mqtt": {
+                "commitNum": "706",
+                "groupName": "Communication",
+                "taskId": "20005",
+                "projID_task": -1
+            },
+            "yoda.js": {
+                "commitNum": "2225",
+                "groupName": "Cloud",
+                "taskId": "20006",
+                "projID_task": -1
+            },
+            "Gladys": {
+                "commitNum": "2423",
+                "groupName": "Cloud",
+                "taskId": "20006",
+                "projID_task": -1
+            },
+            "zmNinja": {
+                "commitNum": "3296",
+                "groupName": "Cloud",
+                "taskId": "20006",
+                "projID_task": -1
+            },
+            "mcs-lite-app": {
+                "commitNum": "571",
+                "groupName": "Cloud",
+                "taskId": "20006",
+                "projID_task": -1
+            },
+            "opendatacam": {
+                "commitNum": "1504",
+                "groupName": "Device",
+                "taskId": "20007",
+                "projID_task": -1
+            },
+            "cylon": {
+                "commitNum": "1324",
+                "groupName": "Device",
+                "taskId": "20007",
+                "projID_task": -1
+            },
+            "Grow.js": {
+                "commitNum": "292",
+                "groupName": "Device",
+                "taskId": "20007",
+                "projID_task": -1
+            },
+            "RaspberryMatic": {
+                "commitNum": "5402",
+                "groupName": "Device",
+                "taskId": "20007",
+                "projID_task": -1
+            },
+            "smart-mirror": {
+                "commitNum": "1285",
+                "groupName": "Device",
+                "taskId": "20007",
+                "projID_task": -1
+            },
+            "TerrariumPI": {
+                "commitNum": "6075",
+                "groupName": "Device",
+                "taskId": "20007",
+                "projID_task": -1
+            }
+        },
+        "Go": {
+            "mainflux": {
+                "commitNum": "1288",
+                "groupName": "Communication",
+                "taskId": "20008",
+                "projID_task": -1
+            },
+            "paho.mqtt.golang": {
+                "commitNum": "475",
+                "groupName": "Communication",
+                "taskId": "20008",
+                "projID_task": -1
+            },
+            "iotex-core": {
+                "commitNum": "3082",
+                "groupName": "Communication",
+                "taskId": "20008",
+                "projID_task": -1
+            },
+            "shifu": {
+                "commitNum": "477",
+                "groupName": "Communication",
+                "taskId": "20008",
+                "projID_task": -1
+            },
+            "kubeedge": {
+                "commitNum": "5122",
+                "groupName": "Communication",
+                "taskId": "20008",
+                "projID_task": -1
+            },
+            "jackal": {
+                "commitNum": "136",
+                "groupName": "Communication",
+                "taskId": "20008",
+                "projID_task": -1
+            },
+            "shellhub": {
+                "commitNum": "4229",
+                "groupName": "Communication",
+                "taskId": "20008",
+                "projID_task": -1
+            },
+            "CasaOS": {
+                "commitNum": "647",
+                "groupName": "Cloud",
+                "taskId": "20009",
+                "projID_task": -1
+            },
+            "drago": {
+                "commitNum": "409",
+                "groupName": "Cloud",
+                "taskId": "20009",
+                "projID_task": -1
+            },
+            "ekuiper": {
+                "commitNum": "2496",
+                "groupName": "Cloud",
+                "taskId": "20009",
+                "projID_task": -1
+            }
+        },
+        "Erlang": {
+            "dgiot": {
+                "commitNum": "1983",
+                "groupName": "Communication",
+                "taskId": "20010",
+                "projID_task": -1
+            },
+            "vernemq": {
+                "commitNum": "2470",
+                "groupName": "Communication",
+                "taskId": "20010",
+                "projID_task": -1
+            },
+            "emqx": {
+                "commitNum": "19153",
+                "groupName": "Communication",
+                "taskId": "20010",
+                "projID_task": -1
+            }
+        },
+        "C#": {
+            "QuickbirdUWPDashboard": {
+                "commitNum": "476",
+                "groupName": "Cloud",
+                "taskId": "20013",
+                "projID_task": -1
+            },
+            "runtime": {
+                "commitNum": "131085",
+                "groupName": "Cloud",
+                "taskId": "20013",
+                "projID_task": -1
+            },
+            "iot": {
+                "commitNum": "1514",
+                "groupName": "Device",
+                "taskId": "20014",
+                "projID_task": -1
+            },
+            "iotedge": {
+                "commitNum": "4105",
+                "groupName": "Device",
+                "taskId": "20014",
+                "projID_task": -1
+            },
+            "MQTTnet": {
+                "commitNum": "1906",
+                "groupName": "Communication",
+                "taskId": "20015",
+                "projID_task": -1
+            }
+        },
+        "Lua": {
+            "apisix": {
+                "commitNum": "4102",
+                "groupName": "Communication",
+                "taskId": "20016",
+                "projID_task": -1
+            },
+            "kong": {
+                "commitNum": "10052",
+                "groupName": "Communication",
+                "taskId": "20016",
+                "projID_task": -1
+            }
+        },
+        "TypeScript": {
+            "node-opcua": {
+                "commitNum": "4232",
+                "groupName": "Communication",
+                "taskId": "20017",
+                "projID_task": -1
+            },
+            "casanet-server": {
+                "commitNum": "1208",
+                "groupName": "Communication",
+                "taskId": "20017",
+                "projID_task": -1
+            },
+            "node-tradfri-client": {
+                "commitNum": "864",
+                "groupName": "Communication",
+                "taskId": "20017",
+                "projID_task": -1
+            },
+            "MQTTX": {
+                "commitNum": "1414",
+                "groupName": "Communication",
+                "taskId": "20017",
+                "projID_task": -1
+            }
+        },
+        "Python": {
+            "smarthome": {
+                "commitNum": "3932",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "appdaemon": {
+                "commitNum": "4376",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "adaptive-lighting": {
+                "commitNum": "837",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "home-assistant": {
+                "commitNum": "84171",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "Adafruit_IO_Python": {
+                "commitNum": "324",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "synse-server": {
+                "commitNum": "970",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "pychromecast": {
+                "commitNum": "722",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "thingsboard-gateway": {
+                "commitNum": "1934",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "pytradfri": {
+                "commitNum": "744",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "GrovePi": {
+                "commitNum": "1114",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "paho.mqtt.python": {
+                "commitNum": "650",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "hass-xiaomi-miot": {
+                "commitNum": "1747",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "HAP-python": {
+                "commitNum": "528",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "urh": {
+                "commitNum": "2938",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "BerryNet": {
+                "commitNum": "387",
+                "groupName": "Communication",
+                "taskId": "20018",
+                "projID_task": -1
+            },
+            "entity-controller": {
+                "commitNum": "796",
+                "groupName": "Cloud",
+                "taskId": "20019",
+                "projID_task": -1
+            },
+            "OctoPrint-AstroPrint": {
+                "commitNum": "280",
+                "groupName": "Cloud",
+                "taskId": "20019",
+                "projID_task": -1
+            },
+            "microk8s": {
+                "commitNum": "1282",
+                "groupName": "Cloud",
+                "taskId": "20019",
+                "projID_task": -1
+            },
+            "ideam": {
+                "commitNum": "164",
+                "groupName": "Cloud",
+                "taskId": "20019",
+                "projID_task": -1
+            },
+            "rpieasy": {
+                "commitNum": "380",
+                "groupName": "Device",
+                "taskId": "20020",
+                "projID_task": -1
+            },
+            "SmartIR": {
+                "commitNum": "1151",
+                "groupName": "Device",
+                "taskId": "20020",
+                "projID_task": -1
+            },
+            "tuya-convert": {
+                "commitNum": "400",
+                "groupName": "Device",
+                "taskId": "20020",
+                "projID_task": -1
+            },
+            "amazon-dash": {
+                "commitNum": "384",
+                "groupName": "Device",
+                "taskId": "20020",
+                "projID_task": -1
+            }
+        }
+    },
+    "taskId": {
+        "20001": [
+            [
+                "sensor-esp32",
+                "C_C++"
+            ],
+            [
+                "arduino-mqtt",
+                "C_C++"
+            ],
+            [
+                "esp-mqtt",
+                "C_C++"
+            ],
+            [
+                "paho.mqtt.c",
+                "C_C++"
+            ],
+            [
+                "wolfssl",
+                "C_C++"
+            ],
+            [
+                "iot-edge-v1",
+                "C_C++"
+            ],
+            [
+                "nanomq",
+                "C_C++"
+            ],
+            [
+                "freeswitch",
+                "C_C++"
+            ]
+        ],
+        "20002": [
+            [
+                "mongoose-os",
+                "C_C++"
+            ],
+            [
+                "device-os",
+                "C_C++"
+            ],
+            [
+                "PedalinoMini",
+                "C_C++"
+            ],
+            [
+                "OpenBK7231T_App",
+                "C_C++"
+            ],
+            [
+                "b-parasite",
+                "C_C++"
+            ],
+            [
+                "esp-iot-solution",
+                "C_C++"
+            ],
+            [
+                "Tasmota",
+                "C_C++"
+            ],
+            [
+                "mcuboot",
+                "C_C++"
+            ],
+            [
+                "sensor-esp32",
+                "C_C++"
+            ],
+            [
+                "RIOT",
+                "C_C++"
+            ],
+            [
+                "threadx",
+                "C_C++"
+            ],
+            [
+                "AliOS-Things",
+                "C_C++"
+            ],
+            [
+                "mbed-os",
+                "C_C++"
+            ],
+            [
+                "zephyr",
+                "C_C++"
+            ]
+        ],
+        "20003": [
+            [
+                "freedomotic",
+                "Java"
+            ],
+            [
+                "openhab-core",
+                "Java"
+            ],
+            [
+                "kura",
+                "Java"
+            ],
+            [
+                "kapua",
+                "Java"
+            ],
+            [
+                "t-io",
+                "Java"
+            ],
+            [
+                "hono",
+                "Java"
+            ]
+        ],
+        "20004": [
+            [
+                "smarthome",
+                "Java"
+            ],
+            [
+                "devicehive-java-server",
+                "Java"
+            ],
+            [
+                "iot-java",
+                "Java"
+            ],
+            [
+                "vor",
+                "Java"
+            ],
+            [
+                "nodel",
+                "Java"
+            ],
+            [
+                "sitewhere",
+                "Java"
+            ],
+            [
+                "ditto",
+                "Java"
+            ],
+            [
+                "mycontroller",
+                "Java"
+            ],
+            [
+                "thingsboard",
+                "Java"
+            ]
+        ],
+        "20005": [
+            [
+                "iotagent-node-lib",
+                "JavaScript"
+            ],
+            [
+                "tuyapi",
+                "JavaScript"
+            ],
+            [
+                "ioBroker.hue",
+                "JavaScript"
+            ],
+            [
+                "iotagent-json",
+                "JavaScript"
+            ],
+            [
+                "lightweightm2m-iotagent",
+                "JavaScript"
+            ],
+            [
+                "iotagent-ul",
+                "JavaScript"
+            ],
+            [
+                "aedes",
+                "JavaScript"
+            ],
+            [
+                "Zwave2Mqtt",
+                "JavaScript"
+            ]
+        ],
+        "20006": [
+            [
+                "yoda.js",
+                "JavaScript"
+            ],
+            [
+                "Gladys",
+                "JavaScript"
+            ],
+            [
+                "zmNinja",
+                "JavaScript"
+            ],
+            [
+                "mcs-lite-app",
+                "JavaScript"
+            ]
+        ],
+        "20007": [
+            [
+                "opendatacam",
+                "JavaScript"
+            ],
+            [
+                "cylon",
+                "JavaScript"
+            ],
+            [
+                "Grow.js",
+                "JavaScript"
+            ],
+            [
+                "RaspberryMatic",
+                "JavaScript"
+            ],
+            [
+                "smart-mirror",
+                "JavaScript"
+            ],
+            [
+                "TerrariumPI",
+                "JavaScript"
+            ]
+        ],
+        "20008": [
+            [
+                "mainflux",
+                "Go"
+            ],
+            [
+                "paho.mqtt.golang",
+                "Go"
+            ],
+            [
+                "iotex-core",
+                "Go"
+            ],
+            [
+                "shifu",
+                "Go"
+            ],
+            [
+                "kubeedge",
+                "Go"
+            ],
+            [
+                "jackal",
+                "Go"
+            ],
+            [
+                "shellhub",
+                "Go"
+            ]
+        ],
+        "20009": [
+            [
+                "kubeedge",
+                "Go"
+            ],
+            [
+                "CasaOS",
+                "Go"
+            ],
+            [
+                "drago",
+                "Go"
+            ],
+            [
+                "ekuiper",
+                "Go"
+            ]
+        ],
+        "20010": [
+            [
+                "dgiot",
+                "Erlang"
+            ],
+            [
+                "vernemq",
+                "Erlang"
+            ],
+            [
+                "emqx",
+                "Erlang"
+            ]
+        ],
+        "20011": [
+            [
+                "domoticz",
+                "C_C++"
+            ],
+            [
+                "esphome",
+                "C_C++"
+            ],
+            [
+                "MySensors",
+                "C_C++"
+            ],
+            [
+                "blynk-library",
+                "C_C++"
+            ],
+            [
+                "poco",
+                "C_C++"
+            ],
+            [
+                "vscp",
+                "C_C++"
+            ],
+            [
+                "VitoWiFi",
+                "C_C++"
+            ],
+            [
+                "openthread",
+                "C_C++"
+            ]
+        ],
+        "20012": [
+            [
+                "domoticz",
+                "C_C++"
+            ],
+            [
+                "esphome",
+                "C_C++"
+            ],
+            [
+                "MySensors",
+                "C_C++"
+            ],
+            [
+                "blynk-library",
+                "C_C++"
+            ],
+            [
+                "ggwave",
+                "C_C++"
+            ],
+            [
+                "upm",
+                "C_C++"
+            ],
+            [
+                "WThermostatBeca",
+                "C_C++"
+            ],
+            [
+                "ESP32-Paxcounter",
+                "C_C++"
+            ],
+            [
+                "ArduinoJson",
+                "C_C++"
+            ]
+        ],
+        "20013": [
+            [
+                "QuickbirdUWPDashboard",
+                "C#"
+            ],
+            [
+                "runtime",
+                "C#"
+            ]
+        ],
+        "20014": [
+            [
+                "iot",
+                "C#"
+            ],
+            [
+                "iotedge",
+                "C#"
+            ]
+        ],
+        "20015": [
+            [
+                "iotedge",
+                "C#"
+            ],
+            [
+                "MQTTnet",
+                "C#"
+            ]
+        ],
+        "20016": [
+            [
+                "apisix",
+                "Lua"
+            ],
+            [
+                "kong",
+                "Lua"
+            ]
+        ],
+        "20017": [
+            [
+                "node-opcua",
+                "TypeScript"
+            ],
+            [
+                "casanet-server",
+                "TypeScript"
+            ],
+            [
+                "node-tradfri-client",
+                "TypeScript"
+            ],
+            [
+                "MQTTX",
+                "TypeScript"
+            ]
+        ],
+        "20018": [
+            [
+                "smarthome",
+                "Python"
+            ],
+            [
+                "appdaemon",
+                "Python"
+            ],
+            [
+                "adaptive-lighting",
+                "Python"
+            ],
+            [
+                "home-assistant",
+                "Python"
+            ],
+            [
+                "Adafruit_IO_Python",
+                "Python"
+            ],
+            [
+                "synse-server",
+                "Python"
+            ],
+            [
+                "pychromecast",
+                "Python"
+            ],
+            [
+                "thingsboard-gateway",
+                "Python"
+            ],
+            [
+                "pytradfri",
+                "Python"
+            ],
+            [
+                "GrovePi",
+                "Python"
+            ],
+            [
+                "paho.mqtt.python",
+                "Python"
+            ],
+            [
+                "hass-xiaomi-miot",
+                "Python"
+            ],
+            [
+                "HAP-python",
+                "Python"
+            ],
+            [
+                "urh",
+                "Python"
+            ],
+            [
+                "BerryNet",
+                "Python"
+            ]
+        ],
+        "20019": [
+            [
+                "smarthome",
+                "Python"
+            ],
+            [
+                "appdaemon",
+                "Python"
+            ],
+            [
+                "adaptive-lighting",
+                "Python"
+            ],
+            [
+                "home-assistant",
+                "Python"
+            ],
+            [
+                "Adafruit_IO_Python",
+                "Python"
+            ],
+            [
+                "BerryNet",
+                "Python"
+            ],
+            [
+                "entity-controller",
+                "Python"
+            ],
+            [
+                "OctoPrint-AstroPrint",
+                "Python"
+            ],
+            [
+                "microk8s",
+                "Python"
+            ],
+            [
+                "ideam",
+                "Python"
+            ]
+        ],
+        "20020": [
+            [
+                "smarthome",
+                "Python"
+            ],
+            [
+                "appdaemon",
+                "Python"
+            ],
+            [
+                "adaptive-lighting",
+                "Python"
+            ],
+            [
+                "home-assistant",
+                "Python"
+            ],
+            [
+                "Adafruit_IO_Python",
+                "Python"
+            ],
+            [
+                "rpieasy",
+                "Python"
+            ],
+            [
+                "SmartIR",
+                "Python"
+            ],
+            [
+                "tuya-convert",
+                "Python"
+            ],
+            [
+                "amazon-dash",
+                "Python"
+            ]
+        ]
+    }
+}
